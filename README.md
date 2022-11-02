@@ -31,13 +31,13 @@ ios-calculator (folder)
 ### Screenshot
 
 <p align="center">
-<a href="https://sezginakgul.github.io/ios-calculator/"><img src="apple.gif" alt="screenshot" width="100%"></a>
+<a href="https://ahmetyags.github.io/ios-calculator/"><img src="apple.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
 ### Links
 
-- Live: [Live Website](https://sezginakgul.github.io/ios-calculator/)
+- Live: [Live Website](https://ahmetyags.github.io/ios-calculator/)
 
 
 ### Steps to Solution
